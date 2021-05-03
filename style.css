@@ -88,7 +88,13 @@ main {
   box-shadow: none;
   border: 2px solid hsl(300, 69%, 71%); 
 }
-
+.logo{
+  width:180px;
+}
+.mock-up {
+  width: 95%;
+  height: auto;
+}
 .columnText div {
   margin-top: 36%;
   margin-left: 58%;
